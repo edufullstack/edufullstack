@@ -5,9 +5,8 @@
 
 +I am an 🧑🏻‍💼 entrepreneur who has always loved the world of technology and finally found time to dedicate myself to that
 
-+I'm currently learning ⌨️🖥️Fullstack Development
++I'm a ⌨️🖥️Fullstack Development
 
-+I'm currently learning 📚Datascience
 
 +Reach me at 📫 eduhey1@icloud.com
 
