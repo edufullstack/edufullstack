@@ -3,8 +3,6 @@
 
 ***
 
-+I am an 🧑🏻‍💼 entrepreneur who has always loved the world of technology and finally found time to dedicate myself to that
-
 +I'm a ⌨️🖥️ Full Stack developer with a background in Psychology. I am passionate about software development and have worked
 with technologies such as NodeJS, React, Redux, Python and SQL, among others. I am empathetic and possess active listening
 skills. I consider myself self-taught and perseverant, and I am committed to keep growing in the industry and solving
