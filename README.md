@@ -3,10 +3,8 @@
 
 ***
 
-+I'm a ⌨️🖥️ Full Stack developer with a background in Psychology. I am passionate about software development and have worked
-with technologies such as NodeJS, React, Redux, Python and SQL, among others. I am empathetic and possess active listening
-skills. I consider myself self-taught and perseverant, and I am committed to keep growing in the industry and solving
-challenges as they arise. English level: C1 Advanced.
++I'm a ⌨️🖥️ Full Stack developer. I am passionate about software development and have worked
+with technologies such as JAVA, SpringBoot, Angular, NodeJS, React, Redux, SQL, among others. 
 
 
 +Reach me at 📫 eduhey1@icloud.com
