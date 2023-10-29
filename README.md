@@ -16,6 +16,6 @@ with technologies such as JAVA, SpringBoot, Angular, NodeJS, React, Redux, SQL, 
 
 ![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufullstack&show_icons=true&count_private=true)
 
-<p align="left"> <a href="https://www.linkedin.com/in/jos%C3%A9-eduardo-ram%C3%ADrez-hern%C3%A1ndez-7baa26170/" target="blank"> My Linkedin profile</a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/joseeramirez/" target="blank"> My Linkedin profile</a> </p>
 <!--
 ****
