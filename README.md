@@ -10,10 +10,10 @@ with technologies such as Java, SpringBoot, Angular, NodeJS, React, Redux, SQL, 
 +Reach me at 📫 joseerh1@outlook.com
 
 
-
+<!-- 
 
 ![Edu's GitHub stats](https://github-readme-stats.vercel.app/api?username=edufullstack&show_icons=true&count_private=true)
-
+-->
 <p align="left"> <a href="https://www.linkedin.com/in/joseeramirez/" target="blank"> My Linkedin profile</a> </p>
 
 
